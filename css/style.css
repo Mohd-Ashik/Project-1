@@ -275,7 +275,16 @@ body{
         padding: 25px 0px;
     }
 }
-
+/* responsive ipad pro  */
+@media screen and (max-width: 1024px){
+    .section50 h2 {
+        text-align: center;
+}
+.div33 {
+    padding: 0px;
+    padding-right: 100px;
+}
+} 
 
 /* responsive mobile phone */
 @media screen and (max-width: 500px){
@@ -300,6 +309,7 @@ body{
         margin-top: 50px;
     }
     .section33 {
+        text-align: center;
         padding: 25px 0px;
     }
     .section33 h2{
@@ -355,7 +365,6 @@ body{
         padding-left: 20px;
         padding-right: 35px;
         border-bottom: 1px solid #d8d1d1;
-
     }
     #mobile-cross{
         text-align: right;
