@@ -293,7 +293,13 @@ body{
     }
     #poster h1 {
         font-size: 28px;
+        margin-top: 150px;   
     }
+    #poster p {
+        margin-top: 10px; 
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+}
     .section33, .section70, .section30, .section50, .div33{
         width: 100%;
     }
