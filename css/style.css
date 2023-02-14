@@ -245,6 +245,13 @@ body{
     text-align: center;
     padding: 10px;
 }
+/* sticky menubar  */
+.sticky{
+    position: fixed;
+    top:0;
+    width: 100%;
+}
+
 /* the end */
 
 /* responsive ipad */
